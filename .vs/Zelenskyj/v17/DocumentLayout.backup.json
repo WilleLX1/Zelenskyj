@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github-Stuff\\C#\\Zelenskyj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE58581-A182-47C3-B5DE-4FA56FC2F78A}|Zelenskyj.csproj|c:\\github-stuff\\c#\\zelenskyj\\audioenforcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE58581-A182-47C3-B5DE-4FA56FC2F78A}|Zelenskyj.csproj|solutionrelative:audioenforcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE58581-A182-47C3-B5DE-4FA56FC2F78A}|Zelenskyj.csproj|c:\\github-stuff\\c#\\zelenskyj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE58581-A182-47C3-B5DE-4FA56FC2F78A}|Zelenskyj.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE58581-A182-47C3-B5DE-4FA56FC2F78A}|Zelenskyj.csproj|c:\\github-stuff\\c#\\zelenskyj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CE58581-A182-47C3-B5DE-4FA56FC2F78A}|Zelenskyj.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE58581-A182-47C3-B5DE-4FA56FC2F78A}|Zelenskyj.csproj|c:\\github-stuff\\c#\\zelenskyj\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE58581-A182-47C3-B5DE-4FA56FC2F78A}|Zelenskyj.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioEnforcer.cs",
+              "DocumentMoniker": "C:\\Github-Stuff\\C#\\Zelenskyj\\AudioEnforcer.cs",
+              "RelativeDocumentMoniker": "AudioEnforcer.cs",
+              "ToolTip": "C:\\Github-Stuff\\C#\\Zelenskyj\\AudioEnforcer.cs",
+              "RelativeToolTip": "AudioEnforcer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:59:29.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Github-Stuff\\C#\\Zelenskyj\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Github-Stuff\\C#\\Zelenskyj\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:04:40.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Github-Stuff\\C#\\Zelenskyj\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Github-Stuff\\C#\\Zelenskyj\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAkwJgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:50:18.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Github-Stuff\\C#\\Zelenskyj\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Github-Stuff\\C#\\Zelenskyj\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:44:11.91Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

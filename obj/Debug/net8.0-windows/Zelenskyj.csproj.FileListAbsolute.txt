@@ -1,0 +1,17 @@
+C:\Github-Stuff\C#\Zelenskyj\bin\Debug\net8.0-windows\Zelenskyj.exe
+C:\Github-Stuff\C#\Zelenskyj\bin\Debug\net8.0-windows\Zelenskyj.deps.json
+C:\Github-Stuff\C#\Zelenskyj\bin\Debug\net8.0-windows\Zelenskyj.runtimeconfig.json
+C:\Github-Stuff\C#\Zelenskyj\bin\Debug\net8.0-windows\Zelenskyj.dll
+C:\Github-Stuff\C#\Zelenskyj\bin\Debug\net8.0-windows\Zelenskyj.pdb
+C:\Github-Stuff\C#\Zelenskyj\obj\Debug\net8.0-windows\Zelenskyj.Form1.resources
+C:\Github-Stuff\C#\Zelenskyj\obj\Debug\net8.0-windows\Zelenskyj.Properties.Resources.resources
+C:\Github-Stuff\C#\Zelenskyj\obj\Debug\net8.0-windows\Zelenskyj.csproj.GenerateResource.cache
+C:\Github-Stuff\C#\Zelenskyj\obj\Debug\net8.0-windows\Zelenskyj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github-Stuff\C#\Zelenskyj\obj\Debug\net8.0-windows\Zelenskyj.AssemblyInfoInputs.cache
+C:\Github-Stuff\C#\Zelenskyj\obj\Debug\net8.0-windows\Zelenskyj.AssemblyInfo.cs
+C:\Github-Stuff\C#\Zelenskyj\obj\Debug\net8.0-windows\Zelenskyj.csproj.CoreCompileInputs.cache
+C:\Github-Stuff\C#\Zelenskyj\obj\Debug\net8.0-windows\Zelenskyj.dll
+C:\Github-Stuff\C#\Zelenskyj\obj\Debug\net8.0-windows\refint\Zelenskyj.dll
+C:\Github-Stuff\C#\Zelenskyj\obj\Debug\net8.0-windows\Zelenskyj.pdb
+C:\Github-Stuff\C#\Zelenskyj\obj\Debug\net8.0-windows\Zelenskyj.genruntimeconfig.cache
+C:\Github-Stuff\C#\Zelenskyj\obj\Debug\net8.0-windows\ref\Zelenskyj.dll
